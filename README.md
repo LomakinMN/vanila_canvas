@@ -1,4 +1,4 @@
-# vanila_canvas
+# vanilla_canvas
 
 ## Overview
 
@@ -20,11 +20,11 @@ This project demonstrates how to draw a room with walls and place a sofa inside 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/LomakinMN/vanila_canvas.git
+   git clone https://github.com/LomakinMN/vanilla_canvas.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd vanila_canvas
+   cd vanilla_canvas
    ```
 
 ### Usage
